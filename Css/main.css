@@ -1,0 +1,44 @@
+.types {
+  padding-top: 100px;
+  padding-bottom: 30px;
+  text-align: center;
+}
+
+.Decriptions {
+  margin-inline: auto;
+  border-collapse: collapse;
+  margin-bottom: 60px;
+  width: 70%;
+}
+
+.imgtype {
+  text-align: center;
+}
+th, td {
+  border: 1px solid #f70303 ;
+  width: 150px;
+  padding: 10px;
+  text-align: left;
+}
+th {
+  background-color: #f70303;
+}
+
+ul {
+    padding-left: 30px;
+    background-color: transparent;
+}
+
+.booknow{
+  text-align: center;
+  text-decoration: underline;
+  padding-top: 30px;
+  padding-bottom: 50px;
+}
+
+footer {
+  background-color: #4F2D18;
+  text-align: center;
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
